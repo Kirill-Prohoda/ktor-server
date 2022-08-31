@@ -1,14 +1,13 @@
 package my
 
-fun main() {
-//    args: Array<String>
+fun main() {  //    args: Array<String>
    Main().run()
 }
 
 class Main {
    private val name: String = "Kirill"
 
-    fun run() {
+   fun run() {
       println("hello $name")
    }
 }
