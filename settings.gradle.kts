@@ -1,3 +1,1 @@
-
-rootProject.name = "ktor-project"
-
+rootProject.name = "ktor-server"
